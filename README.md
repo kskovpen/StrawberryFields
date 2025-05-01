@@ -1,2 +1,2 @@
 # StrawberryFields
-Garfield++ studies
+Simulation studies for gaseous detectors
